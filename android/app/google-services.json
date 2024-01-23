@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855741127195",
+    "project_id": "cheap-g-p-t-v6fnvu",
+    "storage_bucket": "cheap-g-p-t-v6fnvu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855741127195:android:3fe3f1cbca9da0f60f76be",
+        "android_client_info": {
+          "package_name": "com.company.caochai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VtaHY_CMHo8Lb6BKT6vgAv3WJHD1mqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
